@@ -64,10 +64,12 @@ $\textbf {Internet of things}$
 - The term "Internet of things" dates from the late 1990s.
 - As technology evolved everyday deices and products that we use would eventually "talk" to each other and to network servers, in the interest of improving their performance.
 - The "Internet of things" can be seen as connected to "smart" devices - televisions, refrigerators, wristwatches and more. 
+
 $\textbf {Industrial Internet of things}$ 
 - The term "Industrial internet of things" distinguishes manufacturing devices from consumer deices, yet the underlying concept is the same.
 - IIoT devices are wirelessly connected to internal networks as well as to the global internet. These devices represent a new phase in automation - collecting an unprecedented amount of data from all aspects of a process and sharing it with a central server.
 - This data enables analysis and action that has been heretofore unseen, resulting in increased efficiency and productivity. 
+
 $\textbf {Industry 4.0}$ 
 - “Industry 4.0” refers to the 4th Industrial Revolution: the advances
    and innovations enabled by connected devices; massive amounts of
@@ -77,6 +79,7 @@ $\textbf {Industry 4.0}$
    term. Without the connectivity and data that IIoT provides, Industry
    4.0 would not exist, let alone be as impactful on efficiency. IIoT
    enables further analysis and action, and is a key driver of Industry 4.0.
+
 $\textbf {Similarities}$ 
 - Efficiency- and results-oriented: Both IIoT and Industry 4.0 are intended to
   streamline production processes and keep manufacturing viable and
@@ -88,6 +91,7 @@ $\textbf {Similarities}$
   processes or take over by itself. People with the knowledge of how to
   interpret and implement data and actions provided by this technology are
   key to its return on investment.
+
 $\textbf {Differnces}$ 
 - Scope: IIoT will almost always refer exclusively to the equipment in a facility (and any
   potential off-site server locations). Industry 4.0 comprises IIoT, and places it into a
