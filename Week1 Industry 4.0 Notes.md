@@ -105,5 +105,3 @@ $\textbf {Differnces}$
   management and leadership
 
 
-# Week 2
-$\textbf start$ 
